@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpinnerConcept</string>
+    <string-array name="arrayCountry">
+        <item>Canada</item>
+        <item>USA</item>
+        <item>Russia</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>China</item>
+        <item>Romania</item>
+        <item>Italy</item>
+        <item>France</item>
+        <item>France New</item>
+        <item>Finland</item>
+    </string-array>
+</resources>
